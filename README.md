@@ -1,5 +1,7 @@
 # Project-2-Data-Analysis-With-Python
 ## Analyzing the ways that CCM has spread information about itself and how it was received, and also how students have been influenced by CCM's events, whether they were attended or not. While there are a lot of insights inside the file, I've selected and summarized the most interesting to display here.
+## The final cleaned CSV I work with for analysis is the 'Hear_EventsOfLiteracySurvey.csv' file.
+
 
 # Insights 1:
 #### The CMP 135 Computer Concepts with Applications course was most popular among all ethnicities, except those identifying their gender as 'prefer not to say'.
